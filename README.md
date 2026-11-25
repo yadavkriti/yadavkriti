@@ -23,6 +23,6 @@ Researcher in applied mathematics and scientific machine learning, working on **
 
 **Ph.D. Thesis:** *Evolution of Some Mathematical Models of Atmospheric Vortices: Exploration of Steady and Unsteady States*, IIT (BHU) Varanasi, 2026. [Repository](https://idr-sdlib.iitbhu.ac.in/handle/123456789/24162)
 
-🔗 Full list and citations: [Google Scholar](https://scholar.google.com/citations?user=8aNHFPIAAAAJ&hl=en)
+🔗 Full list and citations: 
 🔗 [Website](https://sites.google.com/view/kriti-yadav/bio) · [Google Scholar](https://scholar.google.com/citations?user=8aNHFPIAAAAJ&hl=en)
 
