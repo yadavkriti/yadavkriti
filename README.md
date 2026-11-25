@@ -11,6 +11,7 @@ Researcher in applied mathematics and scientific machine learning, working on **
 - 💼 Available for freelance work in machine learning, data science and scientific computing.
 - 📫 Reach me at **yadavkriti855@gmail.com**
 - ❤️ I love mathematics, programming and data science.
+  
 
 ## 📄 Publications
 
@@ -23,4 +24,5 @@ Researcher in applied mathematics and scientific machine learning, working on **
 **Ph.D. Thesis:** *Evolution of Some Mathematical Models of Atmospheric Vortices: Exploration of Steady and Unsteady States*, IIT (BHU) Varanasi, 2026. [Repository](https://idr-sdlib.iitbhu.ac.in/handle/123456789/24162)
 
 🔗 Full list and citations: [Google Scholar](https://scholar.google.com/citations?user=8aNHFPIAAAAJ&hl=en)
+🔗 [Website](https://sites.google.com/view/kriti-yadav/bio) · [Google Scholar](https://scholar.google.com/citations?user=8aNHFPIAAAAJ&hl=en)
 
